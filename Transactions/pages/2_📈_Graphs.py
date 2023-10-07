@@ -11,7 +11,7 @@ st.title("Chart Maker")
 
 PaymentStatus = st.selectbox(
     'What Payment Status  Would You Like to See',
-    ('Charge & Refund','Charge', 'Refund', 'Chargeback'))
+    ('All','Charge', 'Refund', 'Chargeback'))
 
 PaymentMethod = st.selectbox(
     'What Payment Method Would You Like to See',
