@@ -1,0 +1,201 @@
+﻿Transaction_ID,Type,Transaction_Type,Customer_Name,Total,Success,Day,Transaction_Notes,Source,Country,Auth_code
+1234567,Charge,Goods and Services,James,3286,1,1/2/2023,Thanks,Tablet,US,X8JZG7YH
+9876543,Refund,Friends & Family,Emily,1624,1,1/3/2023,Raffle,Phone,US,D2F3R6KP
+4567890,Charge,Goods and Services,Liam,2659,1,1/4/2023,Thanks,Desktop,US,Q9L4T1VW
+7654321,Charge,Goods and Services,Olivia,4897,1,1/5/2023,Thanks,Phone,US,M7N5P0QI
+2345678,Charge,Friends & Family,Benjamin,3643,1,1/6/2023,Thanks,Desktop,UK,B6K8D3XJ
+8765432,Charge,Goods and Services,Ryan,1320,1,1/7/2023,Razz,Desktop,US,H1R9G4ZO
+3456789,Refund,Goods and Services,Noah,2819,1,1/9/2023,Thanks,Phone,US,U3V2L6SX
+6543210,Charge,Goods and Services,Mia,4388,1,1/10/2023,Thanks,Desktop,US,E5C0W9FN
+5432109,Charge,Friends & Family,William,450,1,1/13/2023,Lottery,Phone,US,Y2A7M8TD
+3210987,Charge,Goods and Services,Ava,4202,1,1/14/2023,Thanks,Desktop,US,P4O1I6LQ
+7890123,Charge,Friends & Family,Samuel,4872,1,1/15/2023,Thanks,Desktop,US,T6X3H9BV
+8901234,Charge,Goods and Services,Samuel,2910,1,1/16/2023,,Phone,US,K8J0R2GZ
+6789012,Charge,Goods and Services,Jacob,2714,1,1/17/2023,Thanks,Phone,US,F7Q5N4MP
+2109876,Refund,Friends & Family,Harper,1047,1,1/18/2023,Thanks,Phone,US,S9V1W6TC
+4321098,Charge,Goods and Services,Ethan,2592,1,1/20/2023,Thanks,Phone,US,G3X2K8DO
+5678901,Charge,Goods and Services,Amelia,1757,1,1/21/2023,Lottery,Desktop,US,R1H4Z7EJ
+8765432,Charge,Friends & Family,Alexander,4760,1,1/22/2023,Thanks,Desktop,UK,L6T0P9NQ
+1098765,Charge,Goods and Services,Evelyn,2139,1,1/23/2023,Thanks,Desktop,US,W2M7F5KV
+9876543,Charge,Friends & Family,Daniel,1535,1,1/24/2023,Thanks,Tablet,US,I9O3G8XA
+5432109,Refund,Goods and Services,Abigail,3998,1,1/25/2023,Thanks,Desktop,US,Z4D1C6YH
+4321098,Charge,Goods and Services,Michael,3348,1,1/25/2023,Thanks,Desktop,US,N8K7Q0TS
+6789012,Charge,Friends & Family,Elizabeth,3071,1,1/25/2023,Thanks,Desktop,US,O6L3V9WP
+8765432,Charge,Goods and Services,Henry,4881,1,1/25/2023,Thanks,Phone,US,C5W2J4IR
+7890123,Charge,Goods and Services,Ella,3191,1,1/27/2023,Lottery,Phone,US,J1X8G3HZ
+6543210,Charge,Goods and Services,Christopher,3563,1,1/29/2023,Lottery,Desktop,US,U4V7B6SK
+2345678,Refund,Friends & Family,Grace,3962,1,1/30/2023,Lottery,Desktop,US,H9N2F1OQ
+1234567,Charge,Goods and Services,Matthew,4565,1,1/31/2023,Lottery,Phone,US,Y3A6T0LM
+3456789,Charge,Friends & Family,Scarlett,4575,1,2/1/2023,Thanks,Phone,US,E1R4C7KP
+2109876,Charge,Goods and Services,David,2637,1,2/2/2023,Thanks,Desktop,US,P8W5Z2GV
+3210987,Charge,Goods and Services,Victoria,2040,1,2/3/2023,Thanks,Desktop,US,T2X9K3JD
+5432109,Charge,Goods and Services,Andrew,4285,1,2/4/2023,Thanks,Desktop,US,Q6O0I7FN
+4567890,Charge,Goods and Services,Andrew,2193,1,2/4/2023,Thanks,Phone,US,M4G8H1VY
+9876543,Charge,Goods and Services,John,3819,1,2/4/2023,Thanks,Desktop,US,L7J3W0RE
+5678901,Refund,Friends & Family,Lily,2347,1,2/5/2023,Thanks,Tablet,US,G9S5P2XK
+8901234,Charge,Goods and Services,Joseph,1085,1,2/6/2023,Thanks,Desktop,US,I5N1V6CM
+1098765,Charge,Friends & Family,Sofia,4258,1,2/7/2023,Thanks,Desktop,US,D3Z7T0BF
+8765432,Charge,Goods and Services,Olivia,4089,1,2/8/2023,Thanks,Phone,UK,R8F6O1LQ
+4321098,Charge,Goods and Services,William,1544,1,2/9/2023,Thanks,Phone,US,C2Y9H4AG
+6543210,Charge,Friends & Family,Benjamin,1953,1,2/10/2023,Thanks,Phone,US,B1K3D7XP
+6789012,Charge,Goods and Services,James,4901,1,2/11/2023,Thanks,Desktop,US,O9M6R5VJ
+3456789,Charge,Goods and Services,Liam,3412,1,2/13/2023,Thanks,Desktop,US,X7Q2W1ET
+2345678,Refund,Friends & Family,Emily,4966,1,2/16/2023,Razz,Phone,US,S4U0Z8KP
+7890123,Charge,Goods and Services,Samuel,2180,1,2/17/2023,Thanks,Desktop,US,T3P6X2G7
+3210987,Charge,Friends & Family,Noah,4022,1,2/18/2023,,Tablet,US,L8J1H9AO
+5432109,Charge,Goods and Services,Alexander,4135,1,2/19/2023,Thanks,Desktop,US,V4N0I5QD
+5678901,Charge,Goods and Services,Jacob,2257,1,2/20/2023,Thanks,Phone,US,H7K5G3YW
+2109876,Chargeback,Friends & Family,Ethan,3090,1,2/21/2023,Thanks,Desktop,US,E9R2F8TC
+1234567,Charge,Goods and Services,Sophia,4510,1,2/22/2023,Thanks,Desktop,US,B0D6C4ZS
+4567890,Charge,Goods and Services,Mia,3924,1,2/23/2023,Thanks,Desktop,US,Q1L3W9MV
+8765432,Charge,Friends & Family,Harper,1967,1,2/24/2023,Razz,Desktop,US,G5X7T2KP
+1098765,Charge,Goods and Services,Charlotte,4793,1,2/25/2023,Thank you ,Desktop,US,N9V4I1HE
+8901234,Charge,Friends & Family,Ava,3165,1,2/27/2023,Thank you ,Phone,US,M2P6K0QO
+9876543,Refund,Goods and Services,Michael,4018,1,3/2/2023,Thanks,Desktop,US,U7F3R5ZN
+6543210,Charge,Goods and Services,Daniel,3401,1,3/3/2023,Thank you ,Desktop,UK,W4J8Y1DA
+3456789,Charge,Friends & Family,Abigail,3663,1,3/4/2023,Thank you ,Phone,US,T0X9C7EV
+2345678,Charge,Goods and Services,Elizabeth,2608,1,3/6/2023,Thank you ,Desktop,US,I5G1L3OH
+6789012,Charge,Goods and Services,Henry,1904,1,3/7/2023,Thank you ,Tablet,US,D2Q6N8WA
+7890123,Charge,Friends & Family,Ella,2254,1,3/7/2023,Thank you ,Desktop,US,K7V3Z0XP
+4321098,Charge,Goods and Services,Grace,1334,1,3/7/2023,Thank you ,Desktop,US,H1R4J9BF
+3210987,Charge,Goods and Services,Victoria,3661,1,3/7/2023,Thank you ,Desktop,US,C3W2O6TS
+5678901,Refund,Friends & Family,Christopher,2793,1,3/7/2023,Thank you ,Desktop,US,P9A7K8LI
+5432109,Charge,Friends & Family,Christopher,2562,1,3/7/2023,Thank you ,Phone,US,S0F4T1XN
+8765432,Charge,Friends & Family,David,3540,1,3/9/2023,Thank you ,Phone,US,V3G6Y2MR
+1098765,Charge,Goods and Services,Lily,2499,1,3/10/2023,Thank you ,Phone,US,X2H7O9EP
+2109876,Charge,Goods and Services,Andrew,3272,1,3/11/2023,Thank you ,Desktop,US,B6N1Q3ZK
+4567890,Charge,Friends & Family,Chloe,3994,1,3/16/2023,Razz,Desktop,US,R4U8J0VD
+8901234,Charge,Goods and Services,Joseph,3043,1,3/17/2023,Thank you ,Tablet,US,G0X5L2YF
+9876543,Charge,Goods and Services,Sofia,3784,1,3/18/2023,Thank you ,Desktop,US,W3T9I7CO
+1234567,Charge,Friends & Family,Olivia,3989,1,3/19/2023,Thank you ,Phone,US,M6D2F4KP
+3456789,Charge,Goods and Services,William,1133,1,3/20/2023,Thank you ,Desktop,US,Q8V1Z7NS
+6543210,Charge,Friends & Family,Emily,3765,1,3/21/2023,Thank you ,Phone,US,E4R5W0GH
+2345678,Charge,Goods and Services,Benjamin,3543,1,3/22/2023,Thanks,Tablet,US,K2H9X1TP
+4321098,Refund,Goods and Services,Liam,1833,1,3/24/2023,Thank you ,Desktop,US,C7B3G6OI
+7890123,Charge,Friends & Family,James,3472,1,3/25/2023,Thank you ,Desktop,US,L9P6J0VX
+3210987,Charge,Goods and Services,Samuel,2842,1,3/26/2023,Thank you ,Desktop,US,O1Y4N8ET
+5678901,Charge,Goods and Services,Noah,1105,1,3/27/2023,Thank you ,Phone,US,U6T2S7KQ
+5432109,Charge,Friends & Family,Jacob,2713,1,3/28/2023,Thank you ,Tablet,US,J0A7F5ZR
+6789012,Charge,Goods and Services,Alexander,4394,1,3/29/2023,Thank you ,Desktop,US,H3G1V9LD
+8765432,Charge,Friends & Family,Mia,2824,1,3/30/2023,Thank you ,Desktop,UK,Y9W8C2XM
+2109876,Charge,Goods and Services,Harper,1964,1,3/31/2023,Thank you ,Desktop,US,F5E0P6NB
+1098765,Charge,Goods and Services,Charlotte,2840,1,4/1/2023,Thank you ,Phone,US,N2K7Z4QH
+4567890,Charge,Friends & Family,Sophia,3671,1,4/2/2023,Razz,Desktop,US,T8V3M1IG
+8901234,Charge,Goods and Services,Ethan,1557,1,4/3/2023,Thank you ,Desktop,US,I1L6H4XO
+3456789,Charge,Goods and Services,Michael,1655,1,4/4/2023,Razz,Tablet,US,D7R9T0CP
+2345678,Refund,Friends & Family,Michael,4582,1,4/5/2023,Razz,Desktop,US,X5J2V8FW
+4321098,Charge,Goods and Services,Elizabeth,3907,1,4/6/2023,Thank you ,Desktop,US,G4Q1S6YO
+3210987,Charge,Friends & Family,Grace,1901,1,4/11/2023,Thank you ,Phone,US,B9N8C0ZK
+7890123,Charge,Goods and Services,Daniel,2068,1,4/12/2023,,Desktop,US,W6H2T3EP
+6543210,Chargeback,Goods and Services,Victoria,3457,1,4/13/2023,Thank you ,Tablet,US,M3K7F1UG
+5678901,Charge,Friends & Family,Ella,4231,1,4/14/2023,Thank you ,Desktop,US,V8I0D4LP
+5432109,Charge,Goods and Services,Christopher,1122,1,4/15/2023,Thanks,Desktop,US,O2G5X1NR
+8765432,Charge,Goods and Services,Scarlett,3188,1,4/16/2023,Thank you ,Desktop,US,P6L9B3VT
+6789012,Charge,Friends & Family,Lily,1279,1,4/17/2023,Thank you ,Phone,US,U1Z4W8EH
+2109876,Charge,Goods and Services,David,4300,1,4/18/2023,Thank you ,Desktop,US,E3R7Y0QJ
+1098765,Charge,Friends & Family,Chloe,2182,1,4/24/2023,Thank you ,Phone,US,K5N2J8OH
+9876543,Charge,Goods and Services,Andrew,4820,1,4/25/2023,Thank you ,Desktop,US,S9T0V6CI
+4567890,Refund,Goods and Services,Sofia,1055,1,4/26/2023,Thank you ,Desktop,US,R4X1H7FA
+8901234,Charge,Friends & Family,Joseph,3787,1,4/27/2023,Thank you ,Desktop,US,C6P8W2GM
+3456789,Charge,Goods and Services,Olivia,2227,1,4/28/2023,Thank you ,Phone,US,Y0M3G7KS
+2345678 ...,Charge,Goods and Services,William,2349,1,4/29/2023,Razz,Desktop,US,H7D2O1LT
+5678901,Charge,Friends & Family,Emily,2326,1,4/30/2023,Thank you ,Desktop,US,J8A5R0NP
+5432109,Charge,Goods and Services,Benjamin,4996,1,5/1/2023,Thank you ,Desktop,US,T3F6N4XK
+7890123,Charge,Friends & Family,Liam,4659,1,5/2/2023,Thank you ,Tablet,US,I2V9Z1WG
+4321098,Charge,Goods and Services,James,2743,1,5/3/2023,,Desktop,US,B4G7H0UE
+3210987,Charge,Goods and Services,Noah,4447,0,5/4/2023,,Phone,US,L0Q8T3VY
+1098765,Charge,Friends & Family,Noah,4447,1,5/5/2023,,Desktop,US,W1K6J2IO
+8765432,Charge,Goods and Services,Jacob,3082,1,5/6/2023,,Desktop,UK,N3X4P9SC
+2345678,Refund,Goods and Services,Alexander,1740,1,5/7/2023,Thank you ,Desktop,US,V7Y9R5KM
+6789012,Charge,Friends & Family,Harper,3303,1,5/8/2023,Razz,Desktop,US,S2O6W1FL
+3456789,Charge,Goods and Services,Mia,4489,1,5/9/2023,Thank you ,Tablet,US,G8C3I0DA
+2109876,Charge,Friends & Family,Charlotte,3945,1,5/10/2023,Thank you ,Desktop,US,E5T9B2QN
+6543210,Charge,Goods and Services,Sophia,2735,1,5/11/2023,Thank you ,Phone,US,M0L4V8HG
+5678901,Chargeback,Goods and Services,Abigail,1575,1,5/12/2023,Thanks,Phone,US,U9S7K1XP
+5432109,Charge,Friends & Family,Elizabeth,3365,1,5/13/2023,Thank you ,Desktop,US,O1R3F6JN
+3210987,Charge,Goods and Services,Michael,2012,1,5/14/2023,Thank you ,Desktop,US,P4G2D9CV
+7890123,Charge,Goods and Services,Daniel,4971,0,5/15/2023,,Phone,US,X8N7Z0TO
+4321098,Charge,Friends & Family,Daniel,4971,1,5/16/2023,,Desktop,US,C6H0V4IA
+8765432,Charge,Goods and Services,Ella,1455,1,5/17/2023,,Desktop,US,K3W9T2LB
+2345678,Charge,Friends & Family,Victoria,3867,1,5/17/2023,Thanks,Desktop,US,Q5J1X8SG
+1098765,Refund,Goods and Services,Christopher,4444,1,5/17/2023,Thanks,Phone,US,F7M4O6NE
+6789012,Charge,Goods and Services,Scarlett,4419,1,5/17/2023,Thanks,Desktop,US,T2Y8G1KP
+3456789,Charge,Friends & Family,Lily,3437,1,5/17/2023,Thanks,Desktop,US,I0V5P9WR
+2109876,Charge,Goods and Services,Chloe,4993,1,5/17/2023,Thanks,Tablet,US,D3B6C7ZO
+6543210,Charge,Goods and Services,David,2881,1,5/18/2023,Thanks,Desktop,US,R9K8H1XF
+5678901,Charge,Friends & Family,Sofia,2522,1,5/19/2023,Thanks,Desktop,US,Y6Q4N0LT
+5432109,Charge,Goods and Services,Andrew,4241,1,5/20/2023,Thanks,Tablet,US,H2T1S7EV
+3210987,Charge,Friends & Family,Andrew,4241,1,5/20/2023,Thanks,Phone,US,J7L3A6UG
+7890123,Charge,Goods and Services,William,1739,1,5/22/2023,Thanks,Desktop,US,W0O9Z5QN
+4321098,Charge,Goods and Services,Olivia,3756,1,5/23/2023,Thanks,Tablet,US,N5R8F4IJ
+8765432,Charge,Friends & Family,Benjamin,1579,1,5/24/2023,Thanks,Phone,US,V2X6D1CP
+2345678,Refund,Goods and Services,Liam,3668,0,5/26/2023,Thank you ,Desktop,US,U7P4W9YK
+1098765,Charge,Goods and Services,Liam,3668,1,5/26/2023,Thanks,Desktop,US,B1H8G3TX
+6789012,Charge,Friends & Family,James,3221,1,5/27/2023,Thanks,Desktop,UK,E4M6K0SO
+3456789,Charge,Goods and Services,Noah,3245,1,5/28/2023,Razz,Desktop,US,C2N9V7LB
+2109876,Charge,Friends & Family,Jacob,3946,1,5/29/2023,Thanks,Desktop,US,G0J7Q8HP
+6543210,Charge,Goods and Services,Samuel,2519,1,5/30/2023,Thanks,Desktop,US,S3T5W1XO
+5678901,Charge,Goods and Services,Alexander,3685,1,5/31/2023,Thanks,Phone,US,L8Y6F2NR
+5432109,Charge,Friends & Family,Mia,2882,1,6/1/2023,Thank you ,Desktop,US,O9V1C4DJ
+3210987,Charge,Goods and Services,Charlotte,2681,1,6/2/2023,Thank you ,Desktop,US,X5I0Z3TG
+7890123,Charge,Goods and Services,Harper,3689,1,6/3/2023,,Phone,US,P2D6R9FA
+4321098,Charge,Friends & Family,Sophia,4568,1,6/4/2023,,Desktop,US,R7H1T8KO
+8765432,Refund,Goods and Services,Abigail,2091,1,6/5/2023,,Phone,US,Q4B0N5WM
+2345678,Charge,Friends & Family,Michael,2313,1,6/6/2023,Thank you ,Desktop,US,K1L6V2UE
+1098765,Charge,Goods and Services,Grace,3732,1,6/7/2023,Thank you ,Tablet,US,W9G3S7XP
+6789012,Charge,Goods and Services,Elizabeth,4990,1,6/8/2023,Thank you ,Desktop,US,F0X8J4CV
+3456789,Charge,Friends & Family,Ella,4312,1,6/9/2023,Thank you ,Desktop,US,M5P9O6QI
+2109876,Charge,Goods and Services,Daniel,4903,1,6/10/2023,Thanks,Desktop,US,U2A7N3YH
+6543210,Charge,Goods and Services,Victoria,2142,1,6/12/2023,Thank you ,Desktop,US,V4T6K1GS
+5678901,Charge,Friends & Family,Scarlett,2468,1,6/13/2023,Thank you ,Desktop,US,C8R9W0JD
+5432109,Charge,Goods and Services,Christopher,2580,1,6/14/2023,Thank you ,Tablet,US,I3H2G7ZO
+3210987,Charge,Friends & Family,Lily,3379,1,6/15/2023,Thanks,Desktop,US,Y0E1D4LB
+7890123,Charge,Goods and Services,David,4194,1,6/16/2023,Thank you ,Phone,US,J7N5F8MK
+4321098,Charge,Goods and Services,Chloe,2985,1,6/17/2023,Thank you ,Desktop,US,B6Q4P2TW
+8765432,Refund,Friends & Family,Sofia,3943,1,6/18/2023,Thank you ,Desktop,US,T1X9V3CO
+2345678,Charge,Goods and Services,Andrew,3684,1,6/19/2023,,Phone,US,S8K0H6IR
+1098765,Charge,Goods and Services,Joseph,3110,1,6/20/2023,,Desktop,US,D3M7G1XF
+6789012,Charge,Friends & Family,William,4028,1,6/21/2023,,Phone,US,G9U2C5VN
+3456789,Charge,Goods and Services,Olivia,2947,1,6/22/2023,,Desktop,UK,R4W8Y1EP
+2109876,Charge,Friends & Family,Liam,2176,1,6/23/2023,,Desktop,US,H1T0O6AS
+6543210,Charge,Goods and Services,Benjamin,4287,1,6/24/2023,Thank you ,Desktop,US,P7J3Z9IN
+5678901,Charge,Goods and Services,James,2787,1,6/25/2023,Razz,Desktop,US,L2V6X4QG
+5432109,Charge,Friends & Family,Noah,2201,1,6/26/2023,Thanks,Phone,US,O9N5R8FM
+3210987,Charge,Goods and Services,Jacob,4883,1,6/27/2023,Thanks,Desktop,US,E7S1A3KP
+7890123,Charge,Goods and Services,Alexander,3072,1,6/28/2023,Thanks,Desktop,US,X6D4B9WV
+4321098,Charge,Friends & Family,Samuel,2375,1,6/29/2023,Thanks,Desktop,US,W0H8G2TO
+8765432,Refund,Goods and Services,Harper,3156,1,6/30/2023,Thanks,Phone,US,N3P2L6UY
+2345678,Charge,Friends & Family,Harper,2015,1,7/1/2023,Thanks,Desktop,US,Q9C7F4JR
+1098765,Charge,Goods and Services,Charlotte,2684,1,7/2/2023,Thank you ,Tablet,US,I1K5T8XN
+6789012,Charge,Goods and Services,Sophia,1769,1,7/3/2023,Thanks,Desktop,US,U4V0E9MQ
+3456789,Charge,Friends & Family,Abigail,3105,1,7/5/2023,Thanks,Desktop,US,T6R2J7ZP
+2109876,Charge,Goods and Services,Grace,2746,1,7/6/2023,Thanks,Tablet,US,C0Y8W1SG
+6543210,Charge,Goods and Services,Michael,3420,1,7/7/2023,Thanks,Desktop,US,F5M3N9KD
+5678901,Charge,Friends & Family,Elizabeth,4924,1,7/8/2023,Thanks,Phone,US,Y7B1G6XP
+5432109,Charge,Goods and Services,Ella,2246,1,7/9/2023,Thanks,Tablet,US,G2T4H8LO
+3210987,Charge,Friends & Family,Daniel,3769,1,7/10/2023,Thanks,Desktop,US,V9X6O1ID
+7890123,Charge,Goods and Services,Victoria,3363,1,7/11/2023,Thank you ,Desktop,US,B3D7Q0CF
+4321098,Charge,Goods and Services,Christopher,2489,1,7/12/2023,Thank you ,Desktop,US,R1P8S5EH
+8765432,Refund,Friends & Family,Scarlett,1626,1,7/13/2023,,Desktop,US,K6Z0V3LA
+2345678,Charge,Goods and Services,David,2931,0,7/14/2023,,Phone,US,H4N7F2WT
+1098765,Charge,Goods and Services,Chloe,1719,1,7/15/2023,Thank you ,Desktop,US,M9W1I6YR
+6789012,Charge,Friends & Family,Lily,3226,1,7/16/2023,Thank you ,Tablet,US,J3C5G8KP
+3456789,Charge,Goods and Services,Sofia,1791,1,7/17/2023,Thank you ,Desktop,US,L0R6V9TB
+2109876,Charge,Friends & Family,Andrew,4330,1,7/18/2023,Thank you ,Desktop,US,O7Q4X2PN
+6543210,Charge,Goods and Services,Joseph,1348,0,7/19/2023,Thank you ,Desktop,US,S2K9T8UG
+5678901,Charge,Goods and Services,William,2836,1,7/20/2023,Thank you ,Desktop,US,E5P1D6ZM
+5432109,Charge,Friends & Family,Liam,1850,1,7/21/2023,Thanks,Desktop,US,X3H7O4FN
+3210987,Charge,Goods and Services,Olivia,4567,1,7/22/2023,Thank you ,Desktop,US,W8Y9N0VJ
+7890123,Charge,Goods and Services,Benjamin,2736,1,7/23/2023,Thank you ,Phone,US,U1A6G2QC
+4321098,Charge,Friends & Family,James,2458,1,7/23/2023,Thank you ,Desktop,US,I9J2M5XW
+8765432,Refund,Goods and Services,Noah,3256,1,7/23/2023,Thank you ,Desktop,US,D4L8B0TR
+2345678,Charge,Friends & Family,Alexander,4719,1,7/24/2023,Thank you ,Desktop,US,Q6V3F9SK
+1098765,Charge,Goods and Services,Jacob,3137,1,7/24/2023,Thank you ,Desktop,US,T0C7W1IO
+6789012,Charge,Goods and Services,Samuel,2465,1,7/25/2023,Razz,Desktop,US,G1K8N6HP
+3456789,Charge,Friends & Family,Harper,3145,1,7/26/2023,Razz,Desktop,US,Y5S2X9LV
+2109876,Charge,Goods and Services,Charlotte,4819,1,7/27/2023,Raffle,Desktop,US,H3O4R7QG
+6543210,Charge,Goods and Services,Sophia,1527,1,7/28/2023,Raffle,Desktop,US,P0E6T1KZ
+5678901,Charge,Friends & Family,Mia,1809,1,7/29/2023,Raffle,Phone,US,B7F9G4DA
+5432109,Charge,Goods and Services,Abigail,3687,1,7/30/2023,Raffle,Desktop,US,N2V5Z8UY
+3210987,Charge,Friends & Family,Grace,4249,1,7/31/2023,Raffle,Desktop,US,R6W1J0EP
+7890123,Charge,Goods and Services,Michael,3792,1,7/31/2023,Thank you ,Desktop,AU,M8H7V4LC
